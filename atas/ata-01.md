@@ -9,7 +9,7 @@
 
 ## Decisões Tomadas
 1. Aprovada a estrutura de pastas do repositório
-2. Definido cronograma das próximas 2 semanas
+2. Definido cronograma das próximas 2 semanas.
 3. Atribuída responsabilidade de documentação à Maria
 
 ## Ações a Realizar
