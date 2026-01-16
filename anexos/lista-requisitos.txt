@@ -1,10 +1,12 @@
 LISTA DE REQUISITOS DO PROJETO
 
-1. Sistema deve permitir adicionar documentos
+1. Sistema deve permitir adicionar documentos - PRIORIDADE ALTA
 2. Sistema deve organizar ficheiros por categoria
-3. Deve existir histórico de alterações
+3. Deve existir histórico de alterações - PRIORIDADE ALTA
 4. Interface deve ser intuitiva
 5. Documentação deve ser acessível a todos
 6. Sistema deve permitir pesquisa rápida
 7. Deve haver backup automático
 8. Controlo de versões obrigatório
+9. Integração com ferramentas externas de gestão
+10. Notificações automáticas de alterações
