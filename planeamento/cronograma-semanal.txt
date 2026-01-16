@@ -5,3 +5,8 @@ Terça-feira: Primeira reunião de planeamento
 Quarta-feira: Definição de requisitos
 Quinta-feira: Revisão de documentação
 Sexta-feira: Consolidação semanal
+
+SEMANA 2
+
+Segunda-feira: Desenvolvimento de protótipo inicial
+Terça-feira: Testes de validação com equipa
