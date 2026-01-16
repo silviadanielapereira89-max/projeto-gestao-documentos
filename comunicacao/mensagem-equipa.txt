@@ -1,0 +1,15 @@
+MENSAGEM À EQUIPA - ESTADO DO PROJETO
+
+Caros colegas,
+
+Concluímos com sucesso a primeira semana do projeto. 
+A estrutura de documentação está estabelecida e temos agora 
+8 requisitos claramente definidos.
+
+Os próximos passos incluem o desenvolvimento do protótipo 
+e a realização de testes de validação.
+
+Agradeço o empenho de todos nesta fase inicial.
+
+Cumprimentos,
+Coordenação do Projeto
