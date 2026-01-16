@@ -1,0 +1,13 @@
+PLANO DE EXECUÇÃO DO PROJETO
+
+FASE 1 - PREPARAÇÃO (Semanas 1-2)
+- Estruturação do repositório e documentação base
+- Definição de requisitos e processos
+
+FASE 2 - DESENVOLVIMENTO (Semanas 3-5)
+- Criação de protótipo inicial
+- Implementação de funcionalidades prioritárias
+
+FASE 3 - VALIDAÇÃO (Semanas 6-7)
+- Testes com utilizadores
+- Correções e ajustes finais
